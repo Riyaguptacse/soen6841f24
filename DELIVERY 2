@@ -1,1 +1,8 @@
+We'll look at three main aspects to determine whether an AI-based academic advisor is feasible:
+
+1. Technical viability
+Technology Requirements: Machine learning techniques, natural language processing (NLP) for dialogue, and strong data analytics skills are probably going to be needed for the solution. Essential components include a reliable AI model (such as GPT, BERT, or bespoke models), a knowledge base of academic programs, courses, and prerequisites, as well as interface with existing student information systems (SIS).
+Data Availability: A wealth of information on course offerings, requirements, student performance, and user comments will be required by the AI. Privacy issues need to be addressed, especially when student data is involved.
+Infrastructure Requirements: Enough processing power is required for both model deployment and training. To scale the system affordably, cloud providers (such AWS, Google Cloud, or Azure) could be used.
+Technical Expertise: For initial setup and continuing maintenance, proficient AI developers, data scientists, and educational domain experts are necessary. The group will require expertise in data protection, natural language processing, and AI model training.
 
