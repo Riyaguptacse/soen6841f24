@@ -1,1 +1,41 @@
+Feasibility Study Riya Gupta
 
+
+We'll look at three main aspects to determine whether an AI-based academic advisor is feasible:
+
+1. Technical Feasibility
+Technology Requirements: Machine learning techniques, natural language processing (NLP) for dialogue, and strong data analytics skills are probably going to be needed for the solution. Essential components include a reliable AI model (such as GPT, BERT, or bespoke models), a knowledge base of academic programs, courses, and prerequisites, as well as interface with existing student information systems (SIS).
+Data Availability: A wealth of information on course offerings, requirements, student performance, and user comments will be required by the AI. Privacy issues need to be addressed, especially when student data is involved.
+Infrastructure Requirements: Enough processing power is required for both model deployment and training. To scale the system affordably, cloud providers (such AWS, Google Cloud, or Azure) could be used.
+Technical Expertise: For initial setup and continuing maintenance, proficient AI developers, data scientists, and educational domain experts are necessary. The group will require expertise in data protection, natural language processing, and AI model training.
+Cloud Service Comparison (For Infrastructure):
+AWS vs. Google Cloud vs. Azure (highlight scalability, pricing, and services)
+
+
+2. Operation Feasibility
+Availability of Resources: Data, technology, and personnel must all be easily accessible. Educational institutions must support the project in order to integrate the data into their systems. It will also be essential to teach employees on AI maintenance and operation.
+Scalability: The AI adviser ought to be able to manage several users at once. It should scale to meet demand without sacrificing dependability or performance if properly implemented.
+User Adoption and Training: For smooth communication, academic advisers and students require an intuitive interface. It will be easier to implement and guarantee efficient use if staff and students receive training.
+Maintenance and Support: To stay accurate, the AI system will require regular updates, such as content updates and model retraining. For monitoring, troubleshooting, and improvement, a support staff is necessary.
+Student Adoption Timeline: 
+Early adopters, gradual adoption, and mass adoption Visual: A line graph showing adoption over time, perhaps with a predicted growth trajectory.
+
+
+
+
+3. Economic Feasibility
+Software development, data collecting, training AI models, cloud infrastructure, and staff are all included in the initial investment costs. Development and setup expenditures may result in high initial costs.
+Operational Costs: Following launch, expenses will arise for support personnel, hosting, upkeep, and updates. By improving data utilisation and model efficiency, cloud hosting expenses can be kept under control.
+Possible ROI: The AI adviser might ease the workload for academic advisors who are human, increasing productivity and freeing them up to concentrate on more complicated issues. Particularly in large or online universities, quicker and more individualised advising may result in higher student satisfaction and retention rates.
+Revenue Generation: Collaborating with educational institutions or charging students a subscription fee are two ways to monetise. Improved academic achievement and higher student retention may indirectly result in financial gains.
+Initial setup vs. operational costs Visual: A stacked bar graph to visually differentiate between one-time investments (software, development, training) vs. recurring costs (hosting, model retraining, support).
+
+Here is the stacked bar graph visualizing the cost breakdown comparison between initial setup and operational costs. The graph differentiates one-time investments (software, development, training) from recurring costs (hosting, model retraining, support). The initial setup costs are displayed in sky blue, while the operational costs are shown in light green.
+
+
+
+Challenging component: Navigating Complexity for Future-Proof AI Solutions
+Data ownership, prejudice, systemic risk, model responsibility, ethical considerations, sustainability, stakeholder alignment, opposition to change, and technical difficulties are some of the obstacles to the use of AI in academic advising. Because AI systems may inherit biases from prior data, which would reinforce disparities, data ownership and governance are essential. Maintaining personal relationships and preventing job displacement require striking a balance between human input and AI skills. AI systems must be in line with sociocultural dynamics and ethical norms, and model accountability and transparency are also essential. Financial sustainability and long-term institutional support are also essential.The introduction of an AI-based academic advisor goes beyond the technicalities of model training and system deployment—it introduces complex layers of ethical, governance, and operational challenges that require careful navigation. By addressing issues such as bias, data governance, system accountability, and stakeholder resistance, institutions can lay the foundation for a truly sustainable and impactful AI solution in academic advising. However, the success of such a system is contingent not only on the immediate feasibility but also on the long-term adaptability and alignment with evolving educational philosophies and regulatory environments.
+
+In conclusion
+If the school is willing to invest in top-notch AI models and committed support, the AI-based academic advisor appears feasible based on the aforementioned considerations. Securing a strong technological infrastructure, guaranteeing data availability, and budgeting for ongoing maintenance and operating expenses are all critical success aspects. Because of the enhanced student experience and expedited advising procedures, the potential return on investment is encouraging; nonetheless, sustainability depends on careful budget allocation and continuous management.
