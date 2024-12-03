@@ -49,4 +49,4 @@ The inclusion of this README is a graded component, emphasizing the importance o
 
 <h2>Acknowledgments</h2>
 
-We thank our team for their dedication and collaborative spirit, which made this project a success. Special thanks to our mentor/instructor for their guidance throughout the development process.
+We thank our team for their dedication and collaborative spirit, which made this project a success. Special thanks to our mentor/instructor/TA Fatema for her guidance throughout the development process.
